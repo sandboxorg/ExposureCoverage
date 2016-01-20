@@ -12,8 +12,6 @@ Test Plan summary report
 # Import standard Python packages
 import time
 # import plotly.plotly as py
-# py.sign_in("skapadia", "dw1pq71zma")
-import sys
 import logging
 import getopt
 from mpl_toolkits.basemap import Basemap
